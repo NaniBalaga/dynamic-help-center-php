@@ -40,6 +40,8 @@ if ($art_result && $art_result->num_rows > 0) {
 }
 ?>
 
+
+
 <!DOCTYPE html>
 <html lang="en" data-theme="dark">
 <head>
