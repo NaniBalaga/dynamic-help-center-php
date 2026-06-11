@@ -25,7 +25,6 @@ Built from scratch using PHP, MySQL, and Vanilla JavaScript, this project featur
 * **Architecture:** Token-based routing and REST-like AJAX endpoints
 
 ## 📂 Project Structure
-
 | File | Description |
 |------|-------------|
 | `help_center.php` | The main user-facing knowledge base. Handles the UI, AJAX requests, search logic, and frontend Markdown parsing. |
