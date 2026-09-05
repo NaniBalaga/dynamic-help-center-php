@@ -4,6 +4,7 @@ Built from scratch using PHP, MySQL, and Vanilla JavaScript, this project featur
 
 ## ✨ Key Features
 
+
 ### Frontend Experience
 * **Glassmorphism UI:** A sleek, modern interface with a frosted-glass effect that seamlessly transitions between Light and Dark themes.
 * **Dynamic Content Loading:** Articles load instantly via AJAX with a smooth UI skeleton loader, eliminating the need for page reloads.
