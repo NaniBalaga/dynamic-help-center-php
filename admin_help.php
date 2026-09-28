@@ -8,6 +8,7 @@ function formatTabName($name) {
     return ucwords(strtolower(trim($name)));
 }
 
+
 // Check for toast messages
 $message = '';
 $msg_type = '';
