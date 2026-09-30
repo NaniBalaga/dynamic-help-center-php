@@ -1,5 +1,6 @@
 A fully custom, modern, and highly responsive Help Center platform developed exclusively for the **CONNECT SRMAP** student portal. 
 
+
 Built from scratch using PHP, MySQL, and Vanilla JavaScript, this project features a stunning Light/Dark Glassmorphism UI, a custom Markdown parser, real-time global search, and a fully equipped Admin Editor for managing knowledge base articles.
 
 ## ✨ Key Features
